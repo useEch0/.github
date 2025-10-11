@@ -28,34 +28,34 @@ Ech0 is a new-generation open-source self-hosted platform designed for individua
 
 ## Highlights
 
-- ☁️ **Ultra Lightweight** — Memory usage under **15MB**, image size under **50MB**, single SQLite file storage.
-- 🚀 **Blazing Fast Deployment** — No configuration needed, install and use with just one command.
-- 🧰 **Command-line Power** — Built-in high-availability CLI tools that support one-click backup, restore, and export.
-- 📟 **TUI Friendly** — Terminal-friendly interactive interface to manage Ech0 from the TUI.
-- ✍️ **Distraction-Free Writing** — Clean online Markdown editor with rich plugin support and live preview.
-- 📦 **Data Ownership** — All content stored locally in SQLite, with RSS feed support.
-- 🔐 **Secure Backup** — One-click export/backup/import via Web, TUI, or CLI.
-- ♻️ **Seamless Restore** — Restore any backup via TUI or CLI to ensure data safety.
-- 🎉 **Completely Free** — Open-source under AGPL-3.0 with no tracking, subscription, or dependency.
-- 🌍 **Cross-Device Compatible** — Fully responsive on desktop, tablet, and mobile.
-- 👾 **PWA Support** — Can be installed as a Web App.
-- ☁️ **S3 Storage Support** — Native integration with S3-compatible object storage for local or cloud backups.
-- 🌐 **ActivityPub Federation** — Native ActivityPub support for interoperability with Mastodon, Misskey etc.
-- 📝 **Built-in Todo Management** — Record and track daily tasks efficiently.
-- 🔑 **OAuth2 Integration** — Full OAuth2 support for secure third-party authentication and API access.
-- 🔗 **Ech0 Connect** — Cross-instance content aggregation, subscription, and synchronization.
-- 🎵 **Music Integration** — Lightweight audio player for local streaming and immersive background music.
-- 🎥 **Video Sharing** — Native support for Bilibili/YouTube smart parsing.
-- 🃏 **Rich Card Support** — Share website links, GitHub projects, and other media-rich content.
-- ⚙️ **Advanced Customization** — Custom styles and scripts for enhanced content presentation.
-- 💬 **Comment System** — Integrate Twikoo for lightweight interaction and feedback.
-- 💻 **Cross-Platform** — Native support for Windows, Linux, and ARM devices like Raspberry Pi.
-- 🔗 **Official Ech0 Hub Integration** — Submit content to the Ech0 Hub ecosystem easily.
-- 🌐 **Self-Hosted Ech0 Hub** — Use your Connect list as a content source.
-- 📦 **Self-contained Binary** — Full frontend resources included, single binary file ready to run.
-- 🔗 **Rich API Support** — Open API available for integration with other systems.
-- 🃏 **Content Display** — Supports X (Twitter)-style card display with social interactions.
-- 👤 **Multi-user and Permissions** — Flexible account and permission management for secure access.
+☁️ **Atomically Lightweight**: Consumes less than **15MB** of memory with an image size under **50MB**, powered by a single-file SQLite architecture  
+🚀 **Instant Deployment**: Zero configuration required — from installation to operation in just one command  
+✍️ **Distraction-Free Writing**: A clean, online Markdown editor with rich plugin support and real-time preview  
+📦 **Data Sovereignty**: All content is stored locally in SQLite, with full RSS feed support  
+🔐 **Secure Backup Mechanism**: One-click full-data export and backup via Web, TUI, or CLI  
+♻️ **Seamless Recovery**: Supports TUI/CLI snapshot restoration and Web-based zero-downtime recovery, ensuring data safety with ease  
+🎉 **Forever Free**: Open-sourced under the AGPL-3.0 license — no tracking, no subscriptions, no external dependencies  
+🌍 **Cross-Platform Adaptation**: Fully responsive design optimized for desktop, tablet, and mobile browsers  
+👾 **PWA Ready**: Installable as a web application, offering a near-native experience  
+🏷️ **Elegant Tag Management & Filtering**: Intelligent tagging system with fast filtering and precise search for effortless organization  
+☁️ **S3 Storage Integration** — Native support for S3-compatible object storage enables efficient cloud synchronization  
+🌐 **ActivityPub Federation** — Seamlessly federates with Mastodon, Misskey, and other decentralized platforms  
+🔑 **OAuth2 Integration** — Native support for OAuth2, simplifying third-party login and API authorization  
+📝 **Built-in Todo Management**: Easily capture and manage daily tasks to stay organized and productive  
+🧰 **Command-Line Powerhouse**: A built-in high-availability CLI that empowers developers and advanced users with precision control and seamless automation  
+📟 **Refined TUI Experience**: A beautifully designed terminal interface offering intuitive management of Ech0  
+🔗 **Ech0 Connect**: A multi-instance connectivity feature that enables real-time status sharing and synchronization between Ech0 nodes  
+🎵 **Seamless Music Integration**: Lightweight embedded music player providing immersive soundscapes and focus modes  
+🎥 **Instant Video Sharing**: Natively supports intelligent parsing of Bilibili and YouTube videos  
+🃏 **Rich Smart Cards**: Instantly share websites, GitHub projects, and other media in visually engaging cards  
+⚙️ **Advanced Customization**: Easily personalize styles and scripts for expressive, unique content presentation  
+💬 **Comment System**: Quick Twikoo integration for lightweight, instant, and non-intrusive interactions  
+💻 **Cross-Platform Compatibility**: Runs natively on Windows, Linux, and ARM devices like Raspberry Pi for stable deployment anywhere  
+🔗 **Ech0 Hub Integration**: Connect to the official Ech0 Hub to discover, subscribe, and share high-quality content  
+📦 **Self-Contained Binary**: Includes all required resources — no extra dependencies, no setup hassle  
+🔗 **Rich API Support**: Open APIs for seamless integration with external systems and workflows  
+🃏 **Dynamic Content Display**: Supports Twitter-like card layouts with likes and social interactions  
+👤 **Multi-Account & Permission Management**: Flexible user and role-based access control ensuring privacy and security  
 
 ---
 
